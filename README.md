@@ -1,7 +1,7 @@
 # datascience
 Repository dedicated to data science, business intelligence and analytics.
 
-Descrição dos artefatos: 
+Os artefatos devem ser visualizados por meio de um navegador de Internet (Microsoft Edge, Google Chrome ou outro). Descrições:
 
 1) r_predicao_nota_geral_enem_gleidson_gomes.html:
 Análise de dados para predição da nota geral do Enem e outras percepções realizado para atender ao projeto final do Bootcamp Semantix 2021/8 - Big Data Science com uso do R, RStudio, Linear Regression, Random Forest.
