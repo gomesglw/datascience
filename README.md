@@ -14,3 +14,8 @@ Análise de dados para compreender os incidentes de trânsito ocorridos na cidad
 
 4) PYSPARK_analise_sentimentos_tweets_sobre_ChatGPT.ipynb:
 Análise de dados de sentimento a respeito do ChatGPT por meio de processamento de linguagem natural de dados extraídos do Twitter. Projeto final para atender a Formação em Cientista de Dados da Data Science Academy. Tecnologias utilizadas: PySpark, Python, Pandas, Matplotlib, Seaborn, Tweepy, TextBlob, NLTK e Jupyter Notebook.
+
+5) APACHE_HADOOP_HDFS_YARN_HIVE_SQOOP_implementacao_slow_changing_dimensions_dw.sql: Implementacao de SCD (slow changing dimensions) tipo 1 e tipo 3 no hive a partir do hdfs em um 
+data lake no apache hadoop. Os dados foram importados para o sgbd mysql oriundos do banco transacional 'adventureworks' da empresa ficticia Adventure Works. Os dados foram 
+imputados no hdfs e hive com o sqoop. O resultado foi a modelagem dimensional para atender a perguntas de negocios referente ao processo de vendas. Projeto final para atender a 
+Formacao Cientista de Dados da Data Science Academy. Tecnologias utilizadas: mysql, apache hadoop (hdfs e mapreduce), yarn, sqoop e hive.
